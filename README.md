@@ -1,0 +1,1 @@
+# quantitative_equal_weight_sp500index
