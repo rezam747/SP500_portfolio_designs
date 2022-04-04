@@ -1,0 +1,20 @@
+name: 'quant_2022'
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.6
+  - ipykernel
+  - pyarrow
+  - pandas
+  - requests
+  - r-arrow
+  - dask
+  - pip
+  - urllib3
+  - memory_profiler
+  - r-dplyr
+  - r-data.table
+  - pip:
+    - rpy2
+    - rpy2-arrow
